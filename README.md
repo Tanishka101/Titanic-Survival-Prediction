@@ -1,6 +1,6 @@
 # Titanic-Survival-Prediction
 
-This project uses machine learning to predict which passengers survived the Titanic disaster. It showcases a full data science workflow from data cleaning to model evaluation.
+This project uses machine learning to predict which Titanic passengers survived. It includes all steps of a data science process, from cleaning the data to evaluating the model.
 
 # 🎯 Objective
 
