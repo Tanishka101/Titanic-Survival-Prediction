@@ -46,10 +46,15 @@ Predict the survival of passengers based on various features like age, gender, f
 
 Titanic-Survival-Prediction/
 │
+
 ├── Titanic_Project.ipynb # Jupyter notebook with all analysis
+
 ├── train.csv # Training dataset
+
 ├── test.csv # Testing dataset
+
 ├── README.md # Project overview
+
 └── LICENSE # License file
 
 
